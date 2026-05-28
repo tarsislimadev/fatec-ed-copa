@@ -1,4 +1,4 @@
-# Projeto Copa do Mundo (Fatec)
+# Projeto Fatec: Figurinhas da Copa
 
 Projeto entregue pra disciplina de Estrutura de Dados do segundo semestre do curso de Inteligencia Artificial da Fatec Rio Claro.
 
